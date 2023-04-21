@@ -1,9 +1,9 @@
-
+![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
 <p align="center"><img src="animation.gif" width="35%"></p>
 <div style=" font-size: medium; color: #447ff7" align=center>
 
 <p  align="center">
-![WebDev Logo](http://www.azinovatechnologies.com/blog/wp-content/uploads/2016/03/web-development.jpg)
+
 <br>
 
 # 🔥 About Me 🔥
@@ -37,12 +37,12 @@
 # 📈 Statistics 📈
 
 <p align="center">
-  <a href="https://github.com/smartdev0218">
-    <img src="https://github-readme-stats.vercel.app/api?username=smartdev0218&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=smartdev0218&theme=github-dark-blue&hide_border=true" /><br/>
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smartdev0218&theme=github_dark&hide_border=true" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smartdev0218&theme=github_dark&hide_border=true" /> -->
-    <img src="https://activity-graph.herokuapp.com/graph?username=smartdev0218&theme=react-dark" />
+  <a href="https://github.com/GentleDev0713">
+    <img src="https://github-readme-stats.vercel.app/api?username=GentleDev0713&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GentleDev0713&theme=github-dark-blue&hide_border=true" /><br/>
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GentleDev0713&theme=github_dark&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GentleDev0713&theme=github_dark&hide_border=true" /> -->
+    <img src="https://activity-graph.herokuapp.com/graph?username=GentleDev0713&theme=react-dark" />
   </a>
 </p>
 
